@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Oka</h1>
+<h1>Muhammad Oka :rocket:</h1>
 
 <p>Telling computers what to do since 2013.</p>
   
