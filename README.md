@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Muhammad Oka</h1>
 
-<!--
-**kawijayaa/kawijayaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Telling computers what to do since 2013.</p>
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawijayaa&hide_border=true&show_icons=true&hide=contribs,prs&include_all_commits=true&line_height=24&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawijayaa&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<h3>Contact Me!</h1>
+<p>
+  <a href="https://kawijayaa.me">website</a>
+  <a href="https://instagram.com/kawijayaa">instagram</a>
+  <a href="mailto:me@kawijayaa.me">email</a>
+ </p>
