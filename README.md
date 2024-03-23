@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=36&duration=4000&pause=1000&color=13DC00&vCenter=true&random=false&width=1000&height=100&lines=%2F%2F+muhammadoka.dev;%2F.*%5C.(py%7Cgo)%24%2F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=36&duration=4000&pause=1000&color=13DC00&center=true&vCenter=true&random=false&width=1000&height=100&lines=%2F%2F+muhammadoka.dev;%2F.*%5C.(py%7Cgo)%24%2F)](https://git.io/typing-svg)
