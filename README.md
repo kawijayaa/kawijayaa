@@ -9,3 +9,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kawijayaa&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats&theme=tokyonight" />
   </a>
 </div>
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kawijayaa&color=62BAAE&style=for-the-badge&label=Stalkers" />
+</div>
